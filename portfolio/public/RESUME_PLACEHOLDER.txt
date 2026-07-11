@@ -1,0 +1,10 @@
+Add your resume PDF here as: public/resume.pdf
+(This exact filename is referenced by src/data/social.ts -> siteConfig.resumeUrl)
+
+Also add your project screenshots here:
+  public/projects/ai-chat-support.png
+  public/projects/code-combat.png
+  public/projects/library-management.png
+
+Until real images are added, the project cards gracefully fall back to a
+subtle text placeholder, so the site still looks intentional.
