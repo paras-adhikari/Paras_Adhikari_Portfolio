@@ -30,7 +30,7 @@ export const projects: Project[] = [
       "MongoDB",
     ],
     liveDemo: "#",
-    github: "#",
+    github: "https://github.com/paras-adhikari/Ai-chat-support-system",
     featured: true,
   },
   {
